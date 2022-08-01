@@ -1,0 +1,4 @@
+name: CGFeatherDetecter
+version: '${project.version}'
+main: com.carsongames.cgfeatherdetecter.CGFeatherDetecter
+api-version: 1.17
